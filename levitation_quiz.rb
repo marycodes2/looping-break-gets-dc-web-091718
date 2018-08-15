@@ -8,6 +8,4 @@ end
 
 puts "You passed the quiz!"
 
-levitation_quiz
-
 
